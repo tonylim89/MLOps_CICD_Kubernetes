@@ -1,5 +1,8 @@
 # MLOps Tutorial
 This is an MLOps Tutorial done following Mohammad Ghodratigohar's MLOps workshop with amendments to ensure deployment.
+
+This tutorial requires Azure Devops, Azure Machine learning and associated resources in azure.
+
 Visit MG's Youtube playlist to learn more on how to implement this continous integration/continous deployment setup as well as learn how to setup infrastructure as a code.
 
 https://www.youtube.com/playlist?list=PLiQS6N-W1p3m9squzZ2cPgGdH5SBhjY6f
